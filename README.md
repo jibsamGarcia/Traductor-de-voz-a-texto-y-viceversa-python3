@@ -6,3 +6,4 @@ Funciona solamente con Python 3.6 por lo temas de algunas librerias.
 
 Antes de correr la aplicacion asegurese de descargar los modulos necesarios con
 $ pip3 install -r requirements.txt
+![Screenshot](Speetch.png)
